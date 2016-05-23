@@ -8,10 +8,10 @@ The data used is from the Human Activity Recognition Using Smartphones Data Set.
 
 #Output Variables
 
-The variables of the  "averaged\_features.txt" file are enumerated in the "variables.txt" file
-The variables of the  "test\_train.txt" file are the same of the ones described in the "feature\_info.txt" file.
-The "activities"  variable corresponds to the ones enumerated in the "activity_label.txt" file from download data.
-The "subject" variable corresponds to a number identification from 1 to 30 (as described in the raw data).
+1. The variables of the  "averaged\_features.txt" file are enumerated in the "variables.txt" file
+2. The variables of the  "test\_train.txt" file are the same of the ones described in the "feature\_info.txt" file.
+3. The "activities"  variable corresponds to the ones enumerated in the "activity_label.txt" file from download data.
+4. The "subject" variable corresponds to a number identification from 1 to 30 (as described in the raw data).
 
 #Transformations
 
@@ -23,7 +23,8 @@ The "subject" variable corresponds to a number identification from 1 to 30 (as d
   * Put the result in the {feature} variable. 
   * These are used to name the columns of the merged data set.
 3. Extract activity descriptive names (activity\_labels.txt):
-  * The activity description names are read from the ""UCI HAR Dataset/activity\_labels.txt"" file with *read.csv* function.      * Put result in the {activity\_label} variable. 
+  * The activity description names are read from the ""UCI HAR Dataset/activity\_labels.txt"" file with *read.csv* function.   
+  * Put result in the {activity\_label} variable. 
   * They are used to substitute the number code of the activity into corresponding descriptive name.
 4. Get data test and train into datatables and merge it into one dataset:
   * Sourcing the "get_data.R":
