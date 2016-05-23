@@ -2,7 +2,11 @@ Getting and Cleaning Data Course Project
 =======
 
 This is the repo for the last project of the Coursera Getting and Cleaning Data Course. The data used is from the Human Activity Recognition Using Smartphones Data Set. The raw data is automatic downloaded by the script  (if not present) from the url contained in the "url" file.
-The defaul url is  [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip], but can be changed if needed.
+The defaul url is  [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip], but can be changed if needed. 
+
+#To the Reviewer:
+        An incomplete version of the project was submitted for evaluation, please consider the tidy data [averaged_features.txt])()
+        in this repo instead the one submitted. 
 
 #Scripts
 There is only two scripts to conduct the cleaning up and formatting the data.

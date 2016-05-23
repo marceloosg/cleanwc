@@ -55,6 +55,6 @@ tidy = dt_sub_act %>%
         mutate(feature=sub("Gyro\\.*", " Gyroscope ",feature)) %>%
         mutate(feature=sub("Acc\\.*"," Acceleration ",feature)) %>%
         mutate(feature=sub("^f","Average Frequency Domain ",feature)) %>%
-        arrange(subject,activities,feature)
+        arrange(activities,subject,feature)
 write.table(tidy,"averaged_features.txt",sep="\t",row.names = F)
 
