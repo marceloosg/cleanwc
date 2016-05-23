@@ -16,7 +16,7 @@ This script can be break down into six steps:
 	
 	2. Extract feature descriptive names (feature.txt)
 	
-	3. Extract activity descriptive names (activity\_labels.txt)
+	3. Extract activity descriptive names (activity_labels.txt)
 	
 	4. Get data test and train into dataframes and merge it into one dataset
 	
@@ -45,6 +45,6 @@ To run it only needs a working internet conection and enough disk space to downl
 
 ## Other
 
-To see detail of the the transformations performed and the variables used please consult the "Codebook.md" file.
+To see details of the the transformations performed and the variables used please consult the "Codebook.md" file.
 The file "variables" contains the variables used in the "averaged\_features.txt" file.
 The merged dataset contains the same mean and standard deviation variables described by the "features_info.txt" file.
