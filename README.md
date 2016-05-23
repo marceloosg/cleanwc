@@ -24,6 +24,7 @@ This script can be break down into six steps:
 	
 	6. Summarize the dataset in a new dataset with the average for each subject and activity
 
+        7. Make it Tidy.
 
 ##get\_data.R
 	It contains the getdata() function that implements step 4. in the main script:
@@ -42,7 +43,14 @@ the first ouput file "test\_train.txt" corresponds to the merged data set obtain
 ##Run
 
 To run it only needs a working internet conection and enough disk space to download  60 MB for the zipped file and 270 MB for the decompressed files.
+Set the current working directory to the same as which the run_analysis.R file is located, then
 
+Execute from rstudio console:
+        source("run_analysis.R")
+
+Execute from a bash shell:
+        ./Rscript run_analysis.R
+        
 ## Other
 
 To see details of the the transformations performed and the variables used please consult the "Codebook.md" file.

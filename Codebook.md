@@ -39,4 +39,8 @@ The data used is from the Human Activity Recognition Using Smartphones Data Set.
   * The merged data table is written in the "test_train.txt" file.
 6. Summarize the dataset in a new tidy dataset with the average for each subject and activity:
   * We use *lapply* to apply the *mean* function to the columns of the {merged} data.table and group by subject and activities.
+7. Make it Tidy.
+  * Use *gather* , *mutate* and arrange functions from the tidyr library to make data tidy.
+  * Transform the old feature names into a more descriptive one with the *sub* function. 
+  * Substituition occurs according to the table described in the "variables.txt" file.
   * The Tidy data set is written in the "averaged_features.txt" file.
