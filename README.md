@@ -5,8 +5,13 @@ This is the repo for the last project of the Coursera Getting and Cleaning Data 
 The defaul url is  [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip], but can be changed if needed. 
 
 #To the Reviewer:
-        An incomplete version of the project was submitted for evaluation, please consider the tidy data [averaged_features.txt])()
-        in this repo instead the one submitted. 
+
+        An incomplete version of the project was submitted for evaluation, please consider the tidy data
+[averaged_features.txt](https://github.com/marceloosg/cleanwc/blob/master/averaged_features.txt) in this repo 
+in this repo instead the one submitted. 
+
+Use the preview file [averaged_features_preview.txt](https://github.com/marceloosg/cleanwc/blob/master/averaged_features_preview.txt) to see  that the data is indeed tidy.
+
 
 #Scripts
 There is only two scripts to conduct the cleaning up and formatting the data.

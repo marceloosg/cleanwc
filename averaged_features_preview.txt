@@ -99,7 +99,7 @@
 2	"LAYING"	"Average Time Domain Body Acceleration Jerk Standard Deviation X"	-0.98587216875
 2	"LAYING"	"Average Time Domain Body Acceleration Jerk Standard Deviation Y"	-0.98317254125
 ..............................................................................................................
-//
+//	11680 records omitted	download averaged_features.txt file to obtain the complete file.
 .............................................................................................................
 29	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration Jerk Standard Deviation Y"	-0.388624195510204
 29	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration Jerk Standard Deviation Z"	-0.678763766530612
