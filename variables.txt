@@ -1,0 +1,70 @@
+	Variable_Names			Feature_Descriptions									Types
+1	subject				subject									numeric (1 to 30)
+2	activities			activities						LAYING	SITTING STANDING WALKING 
+												WALKING_DOWNSTAIRS WALKING_UPSTAIRS
+3	tBodyAcc.mean...X		Average Time Domain Body Acceleration Mean X						numeric
+4	tBodyAcc.mean...Y		Average Time Domain Body Acceleration Mean Y						numeric
+5	tBodyAcc.mean...Z		Average Time Domain Body Acceleration Mean Z						numeric
+6	tBodyAcc.std...X		Average Time Domain Body Acceleration Standard Deviation X				numeric
+7	tBodyAcc.std...Y		Average Time Domain Body Acceleration Standard Deviation Y				numeric
+8	tBodyAcc.std...Z		Average Time Domain Body Acceleration Standard Deviation Z				numeric
+9	tGravityAcc.mean...X		Average Time Domain Gravity Acceleration Mean X						numeric
+10	tGravityAcc.mean...Y		Average Time Domain Gravity Acceleration Mean Y						numeric
+11	tGravityAcc.mean...Z		Average Time Domain Gravity Acceleration Mean Z						numeric
+12	tGravityAcc.std...X		Average Time Domain Gravity Acceleration Standard Deviation X				numeric
+13	tGravityAcc.std...Y		Average Time Domain Gravity Acceleration Standard Deviation Y				numeric
+14	tGravityAcc.std...Z		Average Time Domain Gravity Acceleration Standard Deviation Z				numeric
+15	tBodyAccJerk.mean...X		Average Time Domain Body Acceleration Jerk Mean X					numeric
+16	tBodyAccJerk.mean...Y		Average Time Domain Body Acceleration Jerk Mean Y					numeric
+17	tBodyAccJerk.mean...Z		Average Time Domain Body Acceleration Jerk Mean Z					numeric
+18	tBodyAccJerk.std...X		Average Time Domain Body Acceleration Jerk Standard Deviation X				numeric
+19	tBodyAccJerk.std...Y		Average Time Domain Body Acceleration Jerk Standard Deviation Y				numeric
+20	tBodyAccJerk.std...Z		Average Time Domain Body Acceleration Jerk Standard Deviation Z				numeric
+21	tBodyGyro.mean...X		Average Time Domain Body Gyroscope Mean X						numeric
+22	tBodyGyro.mean...Y		Average Time Domain Body Gyroscope Mean Y						numeric
+23	tBodyGyro.mean...Z		Average Time Domain Body Gyroscope Mean Z						numeric
+24	tBodyGyro.std...X		Average Time Domain Body Gyroscope Standard Deviation X					numeric
+25	tBodyGyro.std...Y		Average Time Domain Body Gyroscope Standard Deviation Y					numeric
+26	tBodyGyro.std...Z		Average Time Domain Body Gyroscope Standard Deviation Z					numeric
+27	tBodyGyroJerk.mean...X		Average Time Domain Body Gyroscope Jerk Mean X						numeric
+28	tBodyGyroJerk.mean...Y		Average Time Domain Body Gyroscope Jerk Mean Y						numeric
+29	tBodyGyroJerk.mean...Z		Average Time Domain Body Gyroscope Jerk Mean Z						numeric
+30	tBodyGyroJerk.std...X		Average Time Domain Body Gyroscope Jerk Standard Deviation X				numeric
+31	tBodyGyroJerk.std...Y		Average Time Domain Body Gyroscope Jerk Standard Deviation Y				numeric
+32	tBodyGyroJerk.std...Z		Average Time Domain Body Gyroscope Jerk Standard Deviation Z				numeric
+33	tBodyAccMag.mean..		Average Time Domain Body Acceleration Magnitude Mean 					numeric
+34	tBodyAccMag.std..		Average Time Domain Body Acceleration Magnitude Standard Deviation 			numeric
+35	tGravityAccMag.mean..		Average Time Domain Gravity Acceleration Magnitude Mean 				numeric
+36	tGravityAccMag.std..		Average Time Domain Gravity Acceleration Magnitude Standard Deviation 			numeric
+37	tBodyAccJerkMag.mean..		Average Time Domain Body Acceleration Jerk Magnitude Mean 				numeric
+38	tBodyAccJerkMag.std..		Average Time Domain Body Acceleration Jerk Magnitude Standard Deviation			numeric
+39	tBodyGyroMag.mean..		Average Time Domain Body Gyroscope Magnitude Mean 					numeric
+40	tBodyGyroMag.std..		Average Time Domain Body Gyroscope Magnitude Standard Deviation 			numeric
+41	tBodyGyroJerkMag.mean..		Average Time Domain Body Gyroscope Jerk Magnitude Mean 					numeric
+42	tBodyGyroJerkMag.std..		Average Time Domain Body Gyroscope Jerk Magnitude Standard Deviation 			numeric
+43	fBodyAcc.mean...X		Average Frequency Domain Body Acceleration Mean X					numeric
+44	fBodyAcc.mean...Y		Average Frequency Domain Body Acceleration Mean Y					numeric
+45	fBodyAcc.mean...Z		Average Frequency Domain Body Acceleration Mean Z					numeric
+46	fBodyAcc.std...X		Average Frequency Domain Body Acceleration Standard Deviation X				numeric
+47	fBodyAcc.std...Y		Average Frequency Domain Body Acceleration Standard Deviation Y				numeric
+48	fBodyAcc.std...Z		Average Frequency Domain Body Acceleration Standard Deviation Z				numeric
+49	fBodyAccJerk.mean...X		Average Frequency Domain Body Acceleration Jerk Mean X					numeric
+50	fBodyAccJerk.mean...Y		Average Frequency Domain Body Acceleration Jerk Mean Y					numeric
+51	fBodyAccJerk.mean...Z		Average Frequency Domain Body Acceleration Jerk Mean Z					numeric
+52	fBodyAccJerk.std...X		Average Frequency Domain Body Acceleration Jerk Standard Deviation X			numeric
+53	fBodyAccJerk.std...Y		Average Frequency Domain Body Acceleration Jerk Standard Deviation Y			numeric
+54	fBodyAccJerk.std...Z		Average Frequency Domain Body Acceleration Jerk Standard Deviation Z			numeric
+55	fBodyGyro.mean...X		Average Frequency Domain Body Gyroscope Mean X						numeric
+56	fBodyGyro.mean...Y		Average Frequency Domain Body Gyroscope Mean Y						numeric
+57	fBodyGyro.mean...Z		Average Frequency Domain Body Gyroscope Mean Z						numeric
+58	fBodyGyro.std...X		Average Frequency Domain Body Gyroscope Standard Deviation X				numeric
+59	fBodyGyro.std...Y		Average Frequency Domain Body Gyroscope Standard Deviation Y				numeric
+60	fBodyGyro.std...Z		Average Frequency Domain Body Gyroscope Standard Deviation Z				numeric
+61	fBodyAccMag.mean..		Average Frequency Domain Body Acceleration Magnitude Mean 				numeric
+62	fBodyAccMag.std..		Average Frequency Domain Body Acceleration Magnitude Standard Deviation			numeric
+63	fBodyBodyAccJerkMag.mean..	Average Frequency Domain BodyBody Acceleration Jerk Magnitude Mean 			numeric
+64	fBodyBodyAccJerkMag.std..	Average Frequency Domain BodyBody Acceleration Jerk Magnitude Standard Deviation 	numeric
+65	fBodyBodyGyroMag.mean..		Average Frequency Domain BodyBody Gyroscope Magnitude Mean 				numeric
+66	fBodyBodyGyroMag.std..		Average Frequency Domain BodyBody Gyroscope Magnitude Standard Deviation 		numeric
+67	fBodyBodyGyroJerkMag.mean..	Average Frequency Domain BodyBody Gyroscope Jerk Magnitude Mean			 	numeric
+68	fBodyBodyGyroJerkMag.std..	Average Frequency Domain BodyBody Gyroscope Jerk Magnitude Standard Deviation 		numeric
