@@ -24,8 +24,8 @@ The "subject" variable corresponds to a number identification from 1 to 30 (as d
 	        These are used to name the columns of the merged data set.
 	        
 ##3. Extract activity descriptive names (activity\_labels.txt)
-	        The activity description names are read from the ""UCI HAR Dataset/activity\_labels.txt"" file with *read.csv* function and the result is put in the {activity\_label} variable. 
-	        They are used to substitute the number code of the activity into corresponding descriptive name.
+*The activity description names are read from the ""UCI HAR Dataset/activity\_labels.txt"" file with *read.csv* function and the result is put in the {activity\_label} variable. 
+*They are used to substitute the number code of the activity into corresponding descriptive name.
 	    
 ##4. Get data test and train into datatables and merge it into one dataset
 	        Sourcing the "get_data.R":
