@@ -1,0 +1,203 @@
+"subject"	"activities"	"feature"	"mean"
+1	"LAYING"	"Average Frequency Domain Body Acceleration Jerk Mean X"	-0.9570738838
+1	"LAYING"	"Average Frequency Domain Body Acceleration Jerk Mean Y"	-0.9224626098
+1	"LAYING"	"Average Frequency Domain Body Acceleration Jerk Mean Z"	-0.9480609042
+1	"LAYING"	"Average Frequency Domain Body Acceleration Jerk Standard Deviation X"	-0.9641607086
+1	"LAYING"	"Average Frequency Domain Body Acceleration Jerk Standard Deviation Y"	-0.9322178704
+1	"LAYING"	"Average Frequency Domain Body Acceleration Jerk Standard Deviation Z"	-0.9605869872
+1	"LAYING"	"Average Frequency Domain Body Acceleration  Magnitude Mean "	-0.8617676481
+1	"LAYING"	"Average Frequency Domain Body Acceleration  Magnitude Standard Deviation "	-0.7983009404
+1	"LAYING"	"Average Frequency Domain Body Acceleration  Mean X"	-0.9390990524
+1	"LAYING"	"Average Frequency Domain Body Acceleration  Mean Y"	-0.86706520518
+1	"LAYING"	"Average Frequency Domain Body Acceleration  Mean Z"	-0.8826668762
+1	"LAYING"	"Average Frequency Domain Body Acceleration  Standard Deviation X"	-0.9244374346
+1	"LAYING"	"Average Frequency Domain Body Acceleration  Standard Deviation Y"	-0.8336255561
+1	"LAYING"	"Average Frequency Domain Body Acceleration  Standard Deviation Z"	-0.81289155944
+1	"LAYING"	"Average Frequency Domain BodyBody Acceleration Jerk Magnitude Mean "	-0.9333003608
+1	"LAYING"	"Average Frequency Domain BodyBody Acceleration Jerk Magnitude Standard Deviation "	-0.9218039756
+1	"LAYING"	"Average Frequency Domain BodyBody Gyroscope Jerk Magnitude Mean "	-0.9423669466
+1	"LAYING"	"Average Frequency Domain BodyBody Gyroscope Jerk Magnitude Standard Deviation "	-0.9326606676
+1	"LAYING"	"Average Frequency Domain BodyBody Gyroscope  Magnitude Mean "	-0.8621901854
+1	"LAYING"	"Average Frequency Domain BodyBody Gyroscope  Magnitude Standard Deviation "	-0.82431943968
+1	"LAYING"	"Average Frequency Domain Body Gyroscope  Mean X"	-0.850249174586
+1	"LAYING"	"Average Frequency Domain Body Gyroscope  Mean Y"	-0.9521914948
+1	"LAYING"	"Average Frequency Domain Body Gyroscope  Mean Z"	-0.909302721
+1	"LAYING"	"Average Frequency Domain Body Gyroscope  Standard Deviation X"	-0.8822964508
+1	"LAYING"	"Average Frequency Domain Body Gyroscope  Standard Deviation Y"	-0.9512320494
+1	"LAYING"	"Average Frequency Domain Body Gyroscope  Standard Deviation Z"	-0.9165825082
+1	"LAYING"	"Average Time Domain Body Acceleration Jerk Magnitude Mean "	-0.9543962646
+1	"LAYING"	"Average Time Domain Body Acceleration Jerk Magnitude Standard Deviation "	-0.9282456284
+1	"LAYING"	"Average Time Domain Body Acceleration Jerk Mean X"	0.0810865342
+1	"LAYING"	"Average Time Domain Body Acceleration Jerk Mean Y"	0.0038382040088
+1	"LAYING"	"Average Time Domain Body Acceleration Jerk Mean Z"	0.010834236361
+1	"LAYING"	"Average Time Domain Body Acceleration Jerk Standard Deviation X"	-0.958482112
+1	"LAYING"	"Average Time Domain Body Acceleration Jerk Standard Deviation Y"	-0.9241492736
+1	"LAYING"	"Average Time Domain Body Acceleration Jerk Standard Deviation Z"	-0.9548551108
+1	"LAYING"	"Average Time Domain Body Acceleration  Magnitude Mean "	-0.8419291525
+1	"LAYING"	"Average Time Domain Body Acceleration  Magnitude Standard Deviation "	-0.79514486386
+1	"LAYING"	"Average Time Domain Body Acceleration  Mean X"	0.22159824394
+1	"LAYING"	"Average Time Domain Body Acceleration  Mean Y"	-0.0405139534294
+1	"LAYING"	"Average Time Domain Body Acceleration  Mean Z"	-0.11320355358
+1	"LAYING"	"Average Time Domain Body Acceleration  Standard Deviation X"	-0.9280564692
+1	"LAYING"	"Average Time Domain Body Acceleration  Standard Deviation Y"	-0.83682740562
+1	"LAYING"	"Average Time Domain Body Acceleration  Standard Deviation Z"	-0.826061401628
+1	"LAYING"	"Average Time Domain Body Gyroscope Jerk Magnitude Mean "	-0.96346103
+1	"LAYING"	"Average Time Domain Body Gyroscope Jerk Magnitude Standard Deviation "	-0.9358409828
+1	"LAYING"	"Average Time Domain Body Gyroscope Jerk Mean X"	-0.107270949192
+1	"LAYING"	"Average Time Domain Body Gyroscope Jerk Mean Y"	-0.04151728689
+1	"LAYING"	"Average Time Domain Body Gyroscope Jerk Mean Z"	-0.0740501211
+1	"LAYING"	"Average Time Domain Body Gyroscope Jerk Standard Deviation X"	-0.9186085208
+1	"LAYING"	"Average Time Domain Body Gyroscope Jerk Standard Deviation Y"	-0.9679072436
+1	"LAYING"	"Average Time Domain Body Gyroscope Jerk Standard Deviation Z"	-0.9577901596
+1	"LAYING"	"Average Time Domain Body Gyroscope  Magnitude Mean "	-0.874759548
+1	"LAYING"	"Average Time Domain Body Gyroscope  Magnitude Standard Deviation "	-0.81901016976
+1	"LAYING"	"Average Time Domain Body Gyroscope  Mean X"	-0.016553093978
+1	"LAYING"	"Average Time Domain Body Gyroscope  Mean Y"	-0.064486124088
+1	"LAYING"	"Average Time Domain Body Gyroscope  Mean Z"	0.14868943626
+1	"LAYING"	"Average Time Domain Body Gyroscope  Standard Deviation X"	-0.87354386782
+1	"LAYING"	"Average Time Domain Body Gyroscope  Standard Deviation Y"	-0.9510904402
+1	"LAYING"	"Average Time Domain Body Gyroscope  Standard Deviation Z"	-0.9082846626
+1	"LAYING"	"Average Time Domain Gravity Acceleration  Magnitude Mean "	-0.8419291525
+1	"LAYING"	"Average Time Domain Gravity Acceleration  Magnitude Standard Deviation "	-0.79514486386
+1	"LAYING"	"Average Time Domain Gravity Acceleration  Mean X"	-0.24888179828
+1	"LAYING"	"Average Time Domain Gravity Acceleration  Mean Y"	0.70554977346
+1	"LAYING"	"Average Time Domain Gravity Acceleration  Mean Z"	0.4458177198
+1	"LAYING"	"Average Time Domain Gravity Acceleration  Standard Deviation X"	-0.8968300184
+1	"LAYING"	"Average Time Domain Gravity Acceleration  Standard Deviation Y"	-0.90772000676
+1	"LAYING"	"Average Time Domain Gravity Acceleration  Standard Deviation Z"	-0.85236629022
+2	"LAYING"	"Average Frequency Domain Body Acceleration Jerk Mean X"	-0.985813630833333
+2	"LAYING"	"Average Frequency Domain Body Acceleration Jerk Mean Y"	-0.982768250416667
+2	"LAYING"	"Average Frequency Domain Body Acceleration Jerk Mean Z"	-0.986197134583333
+2	"LAYING"	"Average Frequency Domain Body Acceleration Jerk Standard Deviation X"	-0.987250255833333
+2	"LAYING"	"Average Frequency Domain Body Acceleration Jerk Standard Deviation Y"	-0.984987392916667
+2	"LAYING"	"Average Frequency Domain Body Acceleration Jerk Standard Deviation Z"	-0.989345368541667
+2	"LAYING"	"Average Frequency Domain Body Acceleration  Magnitude Mean "	-0.975110196458333
+2	"LAYING"	"Average Frequency Domain Body Acceleration  Magnitude Standard Deviation "	-0.975121387916667
+2	"LAYING"	"Average Frequency Domain Body Acceleration  Mean X"	-0.976725059791667
+2	"LAYING"	"Average Frequency Domain Body Acceleration  Mean Y"	-0.979800877916667
+2	"LAYING"	"Average Frequency Domain Body Acceleration  Mean Z"	-0.984380981875
+2	"LAYING"	"Average Frequency Domain Body Acceleration  Standard Deviation X"	-0.973246482083333
+2	"LAYING"	"Average Frequency Domain Body Acceleration  Standard Deviation Y"	-0.981025105625
+2	"LAYING"	"Average Frequency Domain Body Acceleration  Standard Deviation Z"	-0.984792185
+2	"LAYING"	"Average Frequency Domain BodyBody Acceleration Jerk Magnitude Mean "	-0.985374114791667
+2	"LAYING"	"Average Frequency Domain BodyBody Acceleration Jerk Magnitude Standard Deviation "	-0.984568489166667
+2	"LAYING"	"Average Frequency Domain BodyBody Gyroscope Jerk Magnitude Mean "	-0.990248702291667
+2	"LAYING"	"Average Frequency Domain BodyBody Gyroscope Jerk Magnitude Standard Deviation "	-0.989492660416667
+2	"LAYING"	"Average Frequency Domain BodyBody Gyroscope  Magnitude Mean "	-0.972112972708333
+2	"LAYING"	"Average Frequency Domain BodyBody Gyroscope  Magnitude Standard Deviation "	-0.96109837875
+2	"LAYING"	"Average Frequency Domain Body Gyroscope  Mean X"	-0.9864311425
+2	"LAYING"	"Average Frequency Domain Body Gyroscope  Mean Y"	-0.983321635416667
+2	"LAYING"	"Average Frequency Domain Body Gyroscope  Mean Z"	-0.9626718875
+2	"LAYING"	"Average Frequency Domain Body Gyroscope  Standard Deviation X"	-0.988860685833333
+2	"LAYING"	"Average Frequency Domain Body Gyroscope  Standard Deviation Y"	-0.981910616458333
+2	"LAYING"	"Average Frequency Domain Body Gyroscope  Standard Deviation Z"	-0.963174222291667
+2	"LAYING"	"Average Time Domain Body Acceleration Jerk Magnitude Mean "	-0.987741696041667
+2	"LAYING"	"Average Time Domain Body Acceleration Jerk Magnitude Standard Deviation "	-0.98551807625
+2	"LAYING"	"Average Time Domain Body Acceleration Jerk Mean X"	0.0825972511666667
+2	"LAYING"	"Average Time Domain Body Acceleration Jerk Mean Y"	0.012254788451875
+2	"LAYING"	"Average Time Domain Body Acceleration Jerk Mean Z"	-0.00180264895625
+2	"LAYING"	"Average Time Domain Body Acceleration Jerk Standard Deviation X"	-0.98587216875
+2	"LAYING"	"Average Time Domain Body Acceleration Jerk Standard Deviation Y"	-0.98317254125
+..............................................................................................................
+//
+.............................................................................................................
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration Jerk Standard Deviation Y"	-0.388624195510204
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration Jerk Standard Deviation Z"	-0.678763766530612
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Magnitude Mean "	0.00834360271428571
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Magnitude Standard Deviation "	-0.0414696051693878
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Mean X"	0.265423066877551
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Mean Y"	-0.0299465312326531
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Mean Z"	-0.118000587840816
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Standard Deviation X"	-0.0867715569693878
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Standard Deviation Y"	-0.122128287642857
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Standard Deviation Z"	0.0995443502346939
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Magnitude Mean "	-0.617340803061225
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Magnitude Standard Deviation "	-0.712846318367347
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Mean X"	-0.130429072653061
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Mean Y"	-0.0511035119816327
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Mean Z"	-0.0680938780306122
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Standard Deviation X"	-0.474932606326531
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Standard Deviation Y"	-0.73422519244898
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Standard Deviation Z"	-0.558417024081633
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Magnitude Mean "	0.0439627677608163
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Magnitude Standard Deviation "	-0.0800476153673469
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Mean X"	0.0931989463020408
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Mean Y"	-0.152328112210204
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Mean Z"	0.0854318123467347
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Standard Deviation X"	-0.323904731622449
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Standard Deviation Y"	0.0461103045102041
+29	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Standard Deviation Z"	-0.37481514122449
+29	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Magnitude Mean "	0.00834360271428571
+29	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Magnitude Standard Deviation "	-0.0414696051693878
+29	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Mean X"	0.929258953877551
+29	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Mean Y"	-0.227120125306122
+29	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Mean Z"	0.0443786011771429
+29	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Standard Deviation X"	-0.954189013061225
+29	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Standard Deviation Y"	-0.923007798367347
+29	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Standard Deviation Z"	-0.858849467142857
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration Jerk Mean X"	-0.55067842
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration Jerk Mean Y"	-0.592919440769231
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration Jerk Mean Z"	-0.737803881230769
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration Jerk Standard Deviation X"	-0.561565206615385
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration Jerk Standard Deviation Y"	-0.610826602
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration Jerk Standard Deviation Z"	-0.78475388
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration  Magnitude Mean "	-0.400588353846154
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration  Magnitude Standard Deviation "	-0.394508080769231
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration  Mean X"	-0.420402828153846
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration  Mean Y"	-0.297813768569231
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration  Mean Z"	-0.36751984
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration  Standard Deviation X"	-0.326260358153846
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration  Standard Deviation Y"	-0.104299180318462
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Acceleration  Standard Deviation Z"	0.121447414920923
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain BodyBody Acceleration Jerk Magnitude Mean "	-0.549784890615385
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain BodyBody Acceleration Jerk Magnitude Standard Deviation "	-0.580878133230769
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain BodyBody Gyroscope Jerk Magnitude Mean "	-0.773974451846154
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain BodyBody Gyroscope Jerk Magnitude Standard Deviation "	-0.791349425076923
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain BodyBody Gyroscope  Magnitude Mean "	-0.449150735076923
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain BodyBody Gyroscope  Magnitude Standard Deviation "	-0.151472278383077
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Gyroscope  Mean X"	-0.488039003123077
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Gyroscope  Mean Y"	-0.366058433230769
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Gyroscope  Mean Z"	-0.318937001538462
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Gyroscope  Standard Deviation X"	-0.503484236964615
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Gyroscope  Standard Deviation Y"	0.0449545535584615
+30	"WALKING_UPSTAIRS"	"Average Frequency Domain Body Gyroscope  Standard Deviation Z"	-0.253427074984615
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration Jerk Magnitude Mean "	-0.596600099538461
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration Jerk Magnitude Standard Deviation "	-0.561837706461538
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration Jerk Mean X"	0.0579840372876923
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration Jerk Mean Y"	-0.00358719228769231
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration Jerk Mean Z"	0.0161506198923077
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration Jerk Standard Deviation X"	-0.535420203384615
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration Jerk Standard Deviation Y"	-0.587214542923077
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration Jerk Standard Deviation Z"	-0.761942025384615
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Magnitude Mean "	-0.137627857227385
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Magnitude Standard Deviation "	-0.327410815861538
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Mean X"	0.271415642261538
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Mean Y"	-0.0253311698786154
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Mean Z"	-0.124697493775385
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Standard Deviation X"	-0.350504475230769
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Standard Deviation Y"	-0.127311157607692
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Acceleration  Standard Deviation Z"	0.0249468034966154
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Magnitude Mean "	-0.718780256769231
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Magnitude Standard Deviation "	-0.774439096769231
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Mean X"	-0.108414261326154
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Mean Y"	-0.0141113353615385
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Mean Z"	-0.0364157841384615
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Standard Deviation X"	-0.742749529538462
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Standard Deviation Y"	-0.743336958461538
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope Jerk Standard Deviation Z"	-0.665150619230769
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Magnitude Mean "	-0.113608367276923
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Magnitude Standard Deviation "	-0.169293534323077
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Mean X"	-0.00355974576923077
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Mean Y"	-0.0779606464676923
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Mean Z"	0.0814699303289231
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Standard Deviation X"	-0.493837520761538
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Standard Deviation Y"	-0.0840481513184615
+30	"WALKING_UPSTAIRS"	"Average Time Domain Body Gyroscope  Standard Deviation Z"	-0.211573579892308
+30	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Magnitude Mean "	-0.137627857227385
+30	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Magnitude Standard Deviation "	-0.327410815861538
+30	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Mean X"	0.93182983
+30	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Mean Y"	-0.226647292153846
+30	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Mean Z"	-0.0221401100714154
+30	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Standard Deviation X"	-0.954033624307692
+30	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Standard Deviation Y"	-0.914933936
+30	"WALKING_UPSTAIRS"	"Average Time Domain Gravity Acceleration  Standard Deviation Z"	-0.862402791230769
