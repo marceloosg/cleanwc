@@ -9,7 +9,7 @@ The data used is from the Human Activity Recognition Using Smartphones Data Set.
 #Output Variables
 
 1. The variables of the  "averaged\_features.txt" file are enumerated in the "variables.txt" file
-2. The variables of the  "test\_train.txt" file are the same of the ones described in the "feature\_info.txt" file.
+2. The variables of the  "test\_train.txt" file are the same of the ones described in the downloaded "feature\_info.txt" file.
 3. The "activities"  variable corresponds to the ones enumerated in the "activity_label.txt" file from download data.
 4. The "subject" variable corresponds to a number identification from 1 to 30 (as described in the raw data).
 
