@@ -18,11 +18,10 @@ The "subject" variable corresponds to a number identification from 1 to 30 (as d
 1. To retrieve Raw Data:
   * I used the *download.file* function to download the raw data from the url in the "url" file.
   * I used the *unzip* function to decompress the raw data into the current directory.
-
-##2. To Extract feature descriptive names (feature.txt):
-1.      The features variable names are read from the "UCI HAR Dataset/features.txt" file with *read.csv* function 
-	        and put the result in the {feature} variable. 
-	        These are used to name the columns of the merged data set.
+2. To Extract feature descriptive names (feature.txt):
+  * The features variable names are read from the "UCI HAR Dataset/features.txt" file with *read.csv* function 
+  * Put the result in the {feature} variable. 
+  * These are used to name the columns of the merged data set.
 	        
 ##3. Extract activity descriptive names (activity\_labels.txt)
 *The activity description names are read from the ""UCI HAR Dataset/activity\_labels.txt"" file with *read.csv* function and the result is put in the {activity\_label} variable. 
