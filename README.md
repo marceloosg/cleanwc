@@ -32,8 +32,8 @@ This script can be break down into six steps:
 	5. Select only the relevant data from the merged dataset (mean and standards deviation of each measurements)
 	
 	6. Summarize the dataset in a new dataset with the average for each subject and activity
-
-        7. Make it Tidy.
+	
+	7. Make it Tidy.
 
 ##get\_data.R
 	It contains the getdata() function that implements step 4. in the main script:

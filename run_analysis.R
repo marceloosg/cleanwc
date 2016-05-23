@@ -33,18 +33,19 @@ source("get_data.R")
 test=getdata("test")
 train=getdata("train")
 
-#5-Merge into one dataset
+##-Merge into one dataset
 
 merged=rbindlist(list(train,test))
 
-#6-Select only the relevant data from the merged dataset (mean and standards deviation of each measurements)
+#5-Select only the relevant data from the merged dataset (mean and standards deviation of each measurements)
 selected=c(grep("(mean|std)\\.*.$",colnames(merged)),562,563)
 dt=merged[,selected,with=F]
 write.table(dt,"test_train.txt",sep="\t",row.names = F)
 
-#7-Summarize the dataset in a new dataset with the average for each subject and activity 
+#6-Summarize the dataset in a new dataset with the average for each subject and activity 
 dt_sub_act=dt[,lapply(.SD,mean,na.rm=T),by=list(subject,activities)]
-#6-Make it tidy
+
+#7-Make it tidy
 tidy = dt_sub_act %>% 
         gather(feature,mean,-subject,-activities) %>%
         mutate(feature=sub("  "," ",feature)) %>%
